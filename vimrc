@@ -15,6 +15,7 @@ Plugin 'powerline/powerline'
 Plugin 'majutsushi/tagbar'
 Plugin 'SirVer/ultisnips'
 Plugin 'sjl/gundo.vim'
+Plugin 'tomtom/tcomment_vim'
 
 " Python
 Plugin 'nvie/vim-flake8'
@@ -95,6 +96,9 @@ omap s :normal vs<CR>
 
 
 let $DJANGO_SETTINGS_MODULE='settings.test'
+
+"pydiction
+let g:pydiction_location = $HOME . '/.vim/bundle/pydiction/complete-dict' 
 
 " Execute the tests
 nmap <silent><Leader>tf <Esc>:Pytest file<CR>
