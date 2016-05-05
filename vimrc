@@ -16,6 +16,7 @@ Plugin 'majutsushi/tagbar'
 Plugin 'SirVer/ultisnips'
 Plugin 'sjl/gundo.vim'
 Plugin 'tomtom/tcomment_vim'
+Plugin 'vimwiki/vimwiki'
 
 " Python
 Plugin 'nvie/vim-flake8'
