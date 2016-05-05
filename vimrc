@@ -14,9 +14,12 @@ Plugin 'mileszs/ack.vim'
 Plugin 'powerline/powerline'
 Plugin 'majutsushi/tagbar'
 Plugin 'SirVer/ultisnips'
+Plugin 'honza/vim-snippets'
 Plugin 'sjl/gundo.vim'
 Plugin 'tomtom/tcomment_vim'
 Plugin 'vimwiki/vimwiki'
+Plugin 'vim-pandoc/vim-pandoc'
+Plugin 'vim-pandoc/vim-pandoc-syntax' 
 
 " Python
 Plugin 'nvie/vim-flake8'
